@@ -29,7 +29,7 @@ Each account contains:
       - Timestamp, type, amount, and description.
 - Contact: Account holder’s contact number.
 
-Key Requirements Implemented
+## Key Requirements Implemented
 
 No Duplicate Accounts:
 - generateAccountNumber() ensures unique account numbers by checking existing accounts.\
